@@ -1,6 +1,6 @@
 # AMINOAPPS SCRIPT
 
-This repository contains a python script designed to perform some operations. The script allows authorized users to initiate attacks against specified targets for user , community and chatroom. 
+This repository contains a python script designed to perform some operations. The script allows authorized users to initiate attacks against specified targets for user , community, chatroom , sid , summon and many more. 
 
 
 ## Getting Started
@@ -43,7 +43,7 @@ This bot is intended for educational purposes only. The misuse of this bot may r
 
 ---
 
-**Note**: Replace `YOUR_KEY_HERE` with your key in 'config.json' file before running the bot.
+**Note**: Replace `YOUR_KEY_HERE` with your key in 'config.json' file before running the script.
 
 ## Contributing
 
