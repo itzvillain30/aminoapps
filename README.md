@@ -3,6 +3,10 @@
 This repository contains a python script designed to perform some operations. The script allows authorized users to initiate attacks against specified targets for user , community, chatroom , sid , summon and many more. 
 
 
+# SCRIPT PREVIEW
+
+![image alt](https://github.com/itzvillain30/aminoapps/img.png)
+
 ## Getting Started
 
 ### Installation
