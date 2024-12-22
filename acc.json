@@ -1,0 +1,17 @@
+[
+    {
+        "email":"your_mail",
+        "password":"your_password",
+        "device":"deviceid"
+    },
+    {
+        "email":"your_mail",
+        "password":"your_password",
+        "device":"deviceid"
+    },
+    {
+        "email":"your_mail",
+        "password":"your_password",
+        "device":"deviceid"
+    }
+]
