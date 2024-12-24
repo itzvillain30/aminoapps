@@ -28,7 +28,7 @@ This repository contains a python script designed to perform some operations. Th
 3. Install the required libraries:
 
    ```sh
-   it will auto install all requirement 
+   python install.py
    ```
 
 4. Run Command :
