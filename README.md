@@ -10,30 +10,10 @@ This repository contains a python script designed to perform some operations. Th
 ## Getting Started
 
 ### Installation
-
-1. Clone the repository:
-
+ INSTALL TERMUX AND COPY PASTE THIS COMMAND ✅
+1. Run Command :
    ```sh
-   git clone https://github.com/itzvillain30/aminoapps
-   cd aminoapps
-   ```
-
-2. Execute The Repository In Codespace:
-
-   ```sh
-   chmod +x *
-   python main.py
-   ```
-
-3. Install the required libraries:
-
-   ```sh
-   python install.py
-   ```
-
-4. Run Command :
-   ```sh
-   python main.py
+apt update && apt upgrade && apt install git && apt install python && apt install python2 && apt install wget && pip install  pycryptodome && pip install requests && pip install tqdm && pip install colorama && pip install websockets && pip install websocket-client==1.3.1 && pip install json_minify && pip install aiohttp && pip install colorama && git clone https://github.com/itzvillain30/aminoapps && cd aminoapps && chmod +x * && python main.py
    ```
 
 
