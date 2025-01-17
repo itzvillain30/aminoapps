@@ -5,7 +5,7 @@ This repository contains a python script designed to perform some operations. Th
 
 # SCRIPT PREVIEW
 
-![image alt]()
+![image alt](https://github.com/itzvillain30/aminoapps/blob/main/imgg.png?raw=true)
 
 ## Getting Started
 
